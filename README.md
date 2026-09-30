@@ -14,7 +14,7 @@ voxel_maps/
   example_voxel_maps.m     a worked session, section by section
   analysis/
     vlsm_analysis.m              hand, finger and difference maps, with FDR and FWER thresholds
-    compare_covariate_control.m  the Achilles comparison: same patients, different covariate sets
+    compare_covariate_control.m  the core comparison: same patients, different covariate sets
     interaction_analysis.m       voxels where the lesion effect depends on a factor
     save_vlsm_maps.m             writes the maps as .nii images
     vlsm_ttest.m  vlsm_ranksum.m  vlsm_bayes.m  vlsm_lpd.m  vlsm_interaction.m   the statistics
